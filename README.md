@@ -6,7 +6,7 @@
 ---
 
 
-The file works on the data taken from Kaggle: [Kink to the data](https://www.kaggle.com/c/instacart-market-basket-analysis)
+The file works on the data taken from Kaggle: [Link to the data](https://www.kaggle.com/c/instacart-market-basket-analysis)
 
 To reduce the size of the overall file, only 1500 rows are included in the excel file. However, the formulas work for the overall data. Link to the full data file - [GDrive](https://docs.google.com/spreadsheets/d/1S7tonjXhDM9XGaSCJu24JX90t1tM8HtD/edit?usp=sharing&ouid=113985214528481412207&rtpof=true&sd=true)
 
