@@ -1,5 +1,7 @@
 # CLTV-RFM
-Customer Lifetime Value - Recency Frequency Monetary (RFM) Segmentation Analysis using Excel
+## Customer Lifetime Value - Recency Frequency Monetary (RFM) Segmentation Analysis using Excel
+
+---
 
 The file works on the data taken from Kaggle: [Kink to the data](https://www.kaggle.com/c/instacart-market-basket-analysis)
 
